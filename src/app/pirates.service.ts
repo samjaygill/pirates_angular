@@ -8,6 +8,6 @@ export class PiratesService {
   constructor() { }
 
   getPirates(){
-    return ["Captain Jack Sparrow", "Captain Blackbeard", "Captain Silver-Tongue", "Captain Deepsea Davey"]
+    return ["Captain Jack Sparrow", "Captain Blackbeard", "Captain Silver-Tongue", "Captain Deepsea Davey", "Captain McFilthy", "Captain Sandy Shores", "Captain Fish-Lips" ]
   }
 }
